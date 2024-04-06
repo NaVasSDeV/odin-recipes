@@ -1,0 +1,2 @@
+El siguiente proyecto ofrece tres recetas de postres, como un pastel de fresa, un brownie y una tarta tejana. Muy apetitosos y fácil de preparar.🎂😋
+En este pequeño proyecto demostraremos algunos elementos HTML como las imágenes, listas, ordenas y desordenadas, titulos, etc..., con el fin de poner en práctica la teoria estudiada en Odin. 
